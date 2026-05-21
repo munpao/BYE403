@@ -37,7 +37,6 @@ cat << 'EOF'
 EOF
 echo -e "${NC}${CYAN}  HTTP 403 Bypass Header Fuzzer${NC}"
 echo -e "${CYAN}  by CoreFlareSec — AI-Augmented ICS Security${NC}"
-echo -e "${CYAN}  https://github.com/YOUR_USERNAME/BYE403${NC}"
 echo ""
 }
 
